@@ -1,0 +1,11 @@
+version: 'latest'
+
+services:
+
+  database: 
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: example
+    ports:
+      - 5433:5432

@@ -1,21 +1,21 @@
-﻿state,code,category,population,,,,,,,,,
-Arizona,AZ,Male,"3,629,620",,,,,,,,,
-Florida,FL,Male,"10,714,520",,,,,,,,,
-Georgia,GA,Male,"5,270,144",,,,,,,,,
-Illinois,IL,Male,"6,264,364",,,,,,,,,
-Michigan,MI,Male,"4,976,869",,,,,,,,,
-North Carolina,NC,Male,"5,149,323",,,,,,,,,
-Ohio,OH,Male,"5,808,575",,,,,,,,,
-Tennessee,TN,Male,"3,413,181",,,,,,,,,
-Texas,TX,Male,"14,739,011",,,,,,,,,
-Virginia,VA,Male,"4,273,931",,,,,,,,,
-Arizona,AZ,Female,"3,646,696",,,,,,,,,
-Florida,FL,Female,"11,066,608",,,,,,,,,
-Georgia,GA,Female,"5,529,422",,,,,,,,,
-Illinois,IL,Female,"6,407,105",,,,,,,,,
-Michigan,MI,Female,"5,073,942",,,,,,,,,
-North Carolina,NC,Female,"5,401,839",,,,,,,,,
-Ohio,OH,Female,"5,971,442",,,,,,,,,
-Tennessee,TN,Female,"3,562,037",,,,,,,,,
-Texas,TX,Female,"14,788,930",,,,,,,,,
-Virginia,VA,Female,"4,368,343",,,,,,,,,
+﻿state,code,category,population
+Arizona,AZ,Male,"3,629,620"
+Florida,FL,Male,"10,714,520"
+Georgia,GA,Male,"5,270,144"
+Illinois,IL,Male,"6,264,364"
+Michigan,MI,Male,"4,976,869"
+North Carolina,NC,Male,"5,149,323"
+Ohio,OH,Male,"5,808,575"
+Tennessee,TN,Male,"3,413,181"
+Texas,TX,Male,"14,739,011"
+Virginia,VA,Male,"4,273,931"
+Arizona,AZ,Female,"3,646,696"
+Florida,FL,Female,"11,066,608"
+Georgia,GA,Female,"5,529,422"
+Illinois,IL,Female,"6,407,105"
+Michigan,MI,Female,"5,073,942"
+North Carolina,NC,Female,"5,401,839"
+Ohio,OH,Female,"5,971,442"
+Tennessee,TN,Female,"3,562,037"
+Texas,TX,Female,"14,788,930"
+Virginia,VA,Female,"4,368,343"
