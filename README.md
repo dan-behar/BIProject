@@ -1,6 +1,6 @@
 # BIProject
 
-## Autores: 
+## Authors: 
 - Cruz del Cid [CruzdelCid](https://github.com/CruzdelCid)
 - Daniel Behar [dan-behar](https://github.com/dan-behar)
 
